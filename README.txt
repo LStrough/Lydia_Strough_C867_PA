@@ -8,3 +8,5 @@ IDE: Xcode
 Programming Language: C++
 
 AUTHOR: Lydia Strough, WGU#002452624
+
+DIRECTIONS: View the "It works!.png" file for a snapshot of the working program.
