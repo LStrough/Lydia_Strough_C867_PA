@@ -4,9 +4,9 @@ PURPOSE: A C++ program that simulates a class roster management program with the
 
 APPLICATION VERSION: Application Version 1.0, 06/27/2021
 
+AUTHOR: Lydia Strough, WGU#002452624
+
 IDE: Xcode
 Programming Language: C++
-
-AUTHOR: Lydia Strough, WGU#002452624
 
 DIRECTIONS: View the "It works!.png" file for a snapshot of the working program.
